@@ -56,6 +56,7 @@ The project is to auto treat my own photos after I backup them into my local com
 
 
 1.后台处理：
+程序：Photo-Manager.py
 
 1.1）遍历每个文件夹，找出所有照片，格式['BMP', 'TIFF', 'GIF', 'JPEG', 'PNG', 'JPG']， 
      遍历每个视频，格式MP3|MP4|MOV|AVI|RM|RMVB|MTV|FLV|MKV|3GP|RMVB；
